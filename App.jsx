@@ -31,7 +31,7 @@ function App() {
       </h6>
       </body>
 
-    <div className='Box'></div>
+    <div className='Circle'></div>
 
     <body>
       <b>
